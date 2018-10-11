@@ -1,2 +1,2 @@
-FROM quay.io/calico/ctl:v3.1.3
+FROM quay.io/calico/ctl:v2.0.0
 MAINTAINER xdtech
